@@ -97,4 +97,4 @@ Physical enclosure kits and related assets are available separately:
 
 ## Contact
 - For questions regarding fitment, configuration, or custom variations, please reach out through the Martin Studios website.
-- This was product was created by Rmartin3D, the founder of [Martin Studios](https://martinsolutions.carrd.co/)
+- This was product was created by Rmartin3D, the founder of [Martin Studios](https://martinstudios.carrd.co/)
