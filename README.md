@@ -39,7 +39,7 @@ Two side panel options are used:
 
 ## Assembly & Documentation
 - Assembly guide (PDF):  
-  [Assembly Guide](images/Nas Assembly Guide.pdf)
+  [Assembly Guide]([images/Nas Assembly Guide.pdf](https://github.com/MartinStudiosDev/raspberry-pi-mini-rack-nas/blob/a03814abe0b6f17014a29b06eeee4281b8d632e2/images/Nas%20Assembly%20Guide.pdf))
 - Video build guide:  
   [Video Build Guide](https://www.youtube.com/watch?v=zBrQ1sGbXcY)
 
