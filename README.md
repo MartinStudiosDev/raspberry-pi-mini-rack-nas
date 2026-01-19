@@ -39,7 +39,7 @@ Two side panel options are used:
 
 ## Assembly & Documentation
 - Assembly guide (PDF):  
-  [Assembly Guide (PDF)](images/Nas-Assembly-Guide.pdf)
+  [Assembly Guide (PDF)](images/Nas Assembly Guide.pdf)
 - Video build guide:  
   [Video Build Guide](https://www.youtube.com/watch?v=zBrQ1sGbXcY)
 
