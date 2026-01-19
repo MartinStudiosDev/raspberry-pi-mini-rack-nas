@@ -39,9 +39,9 @@ Two side panel options are used:
 
 ## Assembly & Documentation
 - Assembly guide (PDF):  
-  https://drive.google.com/file/d/1-eM1W_HGKJlf83Ymr15dwvMymbAUa6bJ/view
+  [Assembly Guide (PDF)](images/Nas Assembly Guide.pdf)
 - Video build guide:  
-  https://www.youtube.com/watch?v=zBrQ1sGbXcY
+  [Video Build Guide](https://www.youtube.com/watch?v=zBrQ1sGbXcY)
 
 Basic hand tools are required for assembly.
 
