@@ -90,7 +90,8 @@ Documentation may be updated as the design evolves.
 
 ## Availability
 Physical enclosure kits and related assets are available separately:
-- Purchase link: *(add Etsy link here)*
+- [Purchase Physical Kit](https://www.etsy.com/listing/4403263813/raspberry-pi-5-nas-enclosure-mini-server?ref=shop_home_feat_1&sr_prefetch=1&pf_from=shop_home&frs=1&sts=1&logging_key=ff7ec24419a42684d3dde142180f5266a7d3729b%3A4403263813)
+- [Purchase Digital Files](https://www.etsy.com/listing/4403832719/raspberry-pi-nas-files-only?ref=shop_home_feat_3&sr_prefetch=1&pf_from=shop_home&sts=1&dd=1&logging_key=f34208b272d6f39d17361c90636236f7c0db371d%3A4403832719)
 
 ---
 
