@@ -1,5 +1,6 @@
 # Raspberry Pi 5 Mini NAS Enclosure
-![Raspberry Pi 5 Mini NAS Enclosure](images/hero.jpg)
+
+images/hero.jpg
 
 ## Overview
 This project documents a compact enclosure designed to house a Raspberry Pi 5 and two 2.5” SSDs in a clean, modular form factor. While intended primarily as a small NAS platform, the enclosure is suitable for a variety of lightweight networking and computing applications.
