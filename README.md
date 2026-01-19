@@ -48,6 +48,7 @@ Basic hand tools are required for assembly.
 ## Materials & Fasteners
 - 3D-printed PETG enclosure components
 - M3 and M2 fasteners
+- More info in (Link Build Guide)
 
 ---
 
