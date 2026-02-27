@@ -43,7 +43,7 @@ Two side panel options are used:
 - Video build guide:  
   [Video Build Guide](https://www.youtube.com/watch?v=zBrQ1sGbXcY)
 
-Refer to the Assembly Guide PDF if buildign after 1/1/2026
+Refer to the Assembly Guide PDF if building after 1/1/2026
 
 Basic hand tools are required for assembly.
 
